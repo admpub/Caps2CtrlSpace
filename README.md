@@ -2,6 +2,12 @@
 
 CapsLock 切换输入法中英文
 
+
+已知问题： 
+
+如果选中“Enabled CapsLock Indicator Light”选项，在打开命令行程序时会报错，取消该选项选中状态即可
+
+
 __Modified by netcharm__
 1. Add CapsLock Indicator Light option, but can not auto detect IME 
 State with current input focus, so need you start with eng-input state, 
